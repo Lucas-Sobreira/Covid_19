@@ -1,0 +1,23 @@
+Brotli @ file:///D:/bld/brotli-split_1648883782420/work
+click @ file:///D:/bld/click_1648793667490/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1648636472691/work
+dash-bootstrap-components==0.13.0
+dash-core-components @ file:///home/conda/feedstock_root/build_artifacts/dash-core-components_1645162191927/work
+dash-html-components @ file:///home/conda/feedstock_root/build_artifacts/dash-html-components_1645162180756/work
+dash-table==5.0.0
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1648714429286/work
+Flask-Compress @ file:///home/conda/feedstock_root/build_artifacts/flask-compress_1646141388556/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1648728561044/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1648147185463/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1648299710939/work
+MarkupSafe @ file:///D:/bld/markupsafe_1648737731599/work
+numpy @ file:///D:/bld/numpy_1649572844765/work
+pandas @ file:///D:/bld/pandas_1649588128864/work
+plotly @ file:///Users/nicolas/opt/miniconda3/envs/env/conda-bld/plotly_1649173020953/work/packages/python/plotly/dist/plotly-5.7.0.tar.gz
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1647961439546/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1626090218611/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1648847766614/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work
